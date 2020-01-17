@@ -2075,10 +2075,6 @@ bison
 bisque
 bistro
 bit
-bitch
-bitches
-bitching
-bitchy
 bite
 bites
 biting
@@ -2364,10 +2360,6 @@ bonus
 bonuses
 bony
 boo
-boob
-boobies
-boobs
-booby
 booger
 boogey
 boogeyman
@@ -5389,8 +5381,6 @@ cummerbund
 cumulative
 cuneiform
 cunning
-cunt
-cunts
 cup
 cupboard
 cupboards
@@ -5538,11 +5528,6 @@ damaged
 damages
 damaging
 dame
-damn
-damnable
-damned
-damnedest
-damning
 damp
 dampened
 dampener
@@ -6208,12 +6193,6 @@ dibs
 dice
 diced
 dicey
-dick
-dickens
-dickie
-dicking
-dicks
-dicky
 dictate
 dictated
 dictates
@@ -8127,11 +8106,6 @@ faded
 fades
 fading
 fads
-fag
-faggot
-faggots
-faggy
-fags
 fail
 failed
 failing
@@ -9190,13 +9164,6 @@ fry
 fryer
 frying
 fuchsia
-fuck
-fucked
-fucker
-fuckers
-fucking
-fucks
-fuckup
 fudge
 fudged
 fudging
@@ -9413,10 +9380,6 @@ gave
 gavel
 gawk
 gawking
-gay
-gayest
-gayness
-gays
 gaze
 gazebo
 gazed
@@ -10802,7 +10765,6 @@ honeymooners
 honeymooning
 honeymoons
 honeysuckle
-hong
 honk
 honks
 honky
@@ -14851,8 +14813,6 @@ nicotine
 niece
 nieces
 nifty
-nigger
-niggers
 nigh
 night
 nightcap
@@ -17561,8 +17521,6 @@ pushover
 pushy
 puss
 pussies
-pussy
-pussycat
 put
 putrid
 puts
@@ -24086,8 +24044,6 @@ vacuum
 vacuumed
 vacuuming
 vagabond
-vagina
-vaginas
 vague
 vaguely
 vaguest
